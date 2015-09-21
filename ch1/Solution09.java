@@ -3,6 +3,7 @@
 //2. in order to make this possible, store waterbottle twice into s1
 //3. thus, the length of s2 must be half length of s1
 //4. s1 must contain s2
+//REFERENCE: Cracking the coding interview
 
 package answer;
 
